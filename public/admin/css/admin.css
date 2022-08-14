@@ -1,0 +1,7 @@
+.bg-tcard{
+	text-align: center;
+	color:  white; border-radius: 10px;
+	background: rgb(9,152,157); 
+	background: linear-gradient(75deg, rgba(9,152,157,1) 37%, rgba(52,228,234,1) 100%) !important; 
+	border: rgb(9,152,157);
+}
