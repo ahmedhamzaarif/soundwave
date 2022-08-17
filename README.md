@@ -4,8 +4,7 @@ SoundWave is a Entertainment Website.
 
 ## Demo
 
-[Website](https://ahmedhamzaarif.netlify.app/)
-
+Not hosted right now
 
 ## How to test project on a localserver?
 
@@ -27,6 +26,8 @@ php artisan serve
 ```node
 npm run dev 
 ```
+6. Open web app in browser
+[localhost:8000](https://localhost:8000)
 
 ## About Developer
 Hey! My name is Ahmed Hamza & I'm a web developer from Karachi, Pakistan.
