@@ -1,12 +1,21 @@
 # SoundWave
 
-SoundWave is a Entertainment Website.
+SoundWave is a Entertainment Website, where users can listen songs and watch videos.
+The website is managed by the admin panel which is built on Laravel Jetstream.
+
+The Admin of the website can manage content right from the Admin Panel.
+
+All the information is stored in the MySql database & linked to main view of the website.
+
+The whole project is built on Laravel, Php & jQuery.
 
 ## Demo
 
 Not hosted right now
 
 ## How to test project on a localserver?
+
+##### System Requirements to test the project:
 
 0. Download project in a zip file
 1. Create a database with name Sound in phpmyadmin
