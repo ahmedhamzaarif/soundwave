@@ -13,9 +13,11 @@ The whole project is built on Laravel, Php & jQuery.
 
 Not hosted right now
 
-## How to test project on a localserver?
-
 ##### System Requirements to test the project:
+This project was built on Php v8.1 so make sure your localhost runs on that.
+
+
+## How to test project on a localserver?
 
 0. Download project in a zip file
 1. Create a database with name Sound in phpmyadmin
