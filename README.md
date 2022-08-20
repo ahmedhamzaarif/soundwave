@@ -37,7 +37,7 @@ php artisan serve
 npm run dev 
 ```
 6. Open web app in browser
-[localhost:8000](https://localhost:8000)
+[localhost:8000](localhost:8000)
 
 ## About Developer
 Hey! My name is Ahmed Hamza & I'm a web developer from Karachi, Pakistan.
