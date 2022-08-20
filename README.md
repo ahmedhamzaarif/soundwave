@@ -14,8 +14,7 @@ The whole project is built on Laravel, Php & jQuery.
 Not hosted right now
 
 ### System Requirements to test the project:
-This project was built on Laravel 9. Before runnuing this application make sure your localhost is set to Php v8.0.13 otherwise the web application may not work properly.
-
+This project was built on Laravel 9. Before runnuing this application make sure your localhost is set to Php v8.0.13 otherwise the web application may not work properly. Also node must be installed on the system to run the project.
 
 ## How to test project on a localhost?
 
