@@ -11,7 +11,7 @@ The whole project is built on Laravel, Php & jQuery.
 
 ## Demo
 
-Not hosted right now
+[Website](https://sound.azfamtech.com)
 
 ### System Requirements to test the project:
 This project was built on Laravel 9. Before runnuing this application make sure your localhost is set to Php v8.0.13 otherwise the web application may not work properly. Also node must be installed on the system to run the project.
